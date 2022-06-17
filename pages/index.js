@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>메롱 ㅋㅋㅋ</title>
+        <title>merong house</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title=어서와라 자식아 />
+        <Header title=hehehhe />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
